@@ -1,5 +1,7 @@
 ## BUSINESS BLOG CARD
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création du projet : business blog card en HTML5 et CSS3.
