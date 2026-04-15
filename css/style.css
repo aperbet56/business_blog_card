@@ -73,6 +73,7 @@ body {
     right: 0;
     left: 0;
     display: block;
+    z-index: 10;
 }
 
 .card__header__text,
