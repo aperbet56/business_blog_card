@@ -110,7 +110,7 @@ body {
 
 .card__footer__image,
 .card__footer__image img {
-    border-radius: 25px;
+    border-radius: 50%;
 }
 
 .card__footer__image img {
